@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711786197 source:e:\curso danki\console c\contador em c\main.c
+	<stdio.h>
+	<stdlib.h>
+

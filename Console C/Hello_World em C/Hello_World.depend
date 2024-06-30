@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711783030 source:e:\curso danki\console c\hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1711783030 source:e:\curso danki\console c\hello_world em c\main.c
+	<stdio.h>
+	<stdlib.h>
+
